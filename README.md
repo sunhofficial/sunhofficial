@@ -22,3 +22,9 @@ I hope you enjoy my Profile!!👋
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </p>
+
+## Some of my Github Stats
+
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=sunhofficial&show_icons=true&include_all_commits=true)](https://github.com/sunhofficial/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunhofficial&layout=compact)](https://github.com/sunhofficial/github-readme-stats)
